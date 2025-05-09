@@ -53,3 +53,4 @@ VENDOR_SECURITY_PATCH := 2024-12-01
 
 # inherit from the proprietary version
 include vendor/motorola/bangkk/BoardConfigVendor.mk
+include hardware/motorola/dolby/BoardConfigVendor.mk
